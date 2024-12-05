@@ -1,4 +1,12 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
+
+### Update(s)
+I'm currently learning as much as I can. 
+
+### GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganReyn&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoganReyn&show_icons=true&theme=radical)
 
 
 
